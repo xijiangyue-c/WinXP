@@ -84,7 +84,7 @@ export const initialTracks = [
   {
     url:
       'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/%E9%99%88%E6%85%A7%E5%A8%B4%20-%20%E5%8D%83%E5%8D%83%E9%98%99%E6%AD%8C.flac',
-    duration: 299.400,
+    duration: 299.4,
     metaData: {
       title: '千千阙歌',
       artist: '陈慧娴',
