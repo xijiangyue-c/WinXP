@@ -3,7 +3,7 @@
 export const initialTracks = [
   {
     url:
-      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/周深%20-%20Rubia.flac',
+      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/%E5%91%A8%E6%B7%B1%20-%20Rubia.flac',
     duration: 194.558,
     metaData: {
       title: 'Rubia',
@@ -13,7 +13,7 @@ export const initialTracks = [
   },
   {
     url:
-      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/周深%20-%20望.flac',
+      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/%E5%91%A8%E6%B7%B1%20-%20%E6%9C%9B.flac',
     duration: 250.547,
     metaData: {
       title: '望',
@@ -23,7 +23,7 @@ export const initialTracks = [
   },
   {
     url:
-      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/王菲%20-%20如愿.flac',
+      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/%E7%8E%8B%E8%8F%B2%20-%20%E5%A6%82%E6%84%BF.flac',
     duration: 265.383,
     metaData: {
       title: '如愿',
@@ -33,7 +33,7 @@ export const initialTracks = [
   },
   {
     url:
-      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/胡歌%20-%20忘记时间.flac',
+      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/%E8%83%A1%E6%AD%8C%20-%20%E5%BF%98%E8%AE%B0%E6%97%B6%E9%97%B4.flac',
     duration: 272.106,
     metaData: {
       title: '忘记时间',
@@ -43,7 +43,7 @@ export const initialTracks = [
   },
   {
     url:
-      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/五月天%2C孙燕姿%20-%20温柔%20%23MaydayBlue20th.flac',
+      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/%E4%BA%94%E6%9C%88%E5%A4%A9%2C%E5%AD%99%E7%87%95%E5%A7%BF%20-%20%E6%B8%A9%E6%9F%94%20%23MaydayBlue20th.flac',
     duration: 271.018,
     metaData: {
       title: '温柔 #MaydayBlue20th',
@@ -63,7 +63,7 @@ export const initialTracks = [
   },
   {
     url:
-      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/G.E.M.邓紫棋%20-%20句号.flac',
+      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/G.E.M.%E9%82%93%E7%B4%AB%E6%A3%8B%20-%20%E5%8F%A5%E5%8F%B7.flac',
     duration: 235.632,
     metaData: {
       title: '句号',
@@ -73,7 +73,7 @@ export const initialTracks = [
   },
   {
     url:
-      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/周杰伦%20-%20夜曲.flac',
+      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/%E5%91%A8%E6%9D%B0%E4%BC%A6%20-%20%E5%A4%9C%E6%9B%B2.flac',
     duration: 226.827,
     metaData: {
       title: '夜曲',
@@ -83,7 +83,7 @@ export const initialTracks = [
   },
   {
     url:
-      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/陈慧娴%20-%20千千阙歌.flac',
+      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/%E9%99%88%E6%85%A7%E5%A8%B4%20-%20%E5%8D%83%E5%8D%83%E9%98%99%E6%AD%8C.flac',
     duration: 299.400,
     metaData: {
       title: '千千阙歌',
