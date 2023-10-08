@@ -234,16 +234,16 @@ function MyComputer({ onClose }) {
                 <div className="com__content__left__card__row">
                   <img
                     className="com__content__left__card__img"
-                    src="https://cdn.iconscout.com/icon/free/png-256/medium-1425876-1205067.png"
+                    src="https://sh1zuku.csie.io/favicon.ico"
                     alt="control"
                   />
                   <ga.OutboundLink
-                    eventLabel="https://medium.com/@ShizukuIchi"
-                    to="https://medium.com/@ShizukuIchi"
+                    eventLabel="https://sh1zuku.csie.io"
+                    to="https://sh1zuku.csie.io"
                     className="com__content__left__card__text link"
                     target="_blank"
                   >
-                    Medium
+                    Author's Website
                   </ga.OutboundLink>
                 </div>
                 <div className="com__content__left__card__row">
@@ -332,41 +332,6 @@ function MyComputer({ onClose }) {
                     CD Drive (D:)
                   </div>
                 </div>
-              </div>
-            </div>
-            <div className="com__content__right__card com__content__right__card--me">
-              <div className="com__content__right__card__header">
-                About Me :)
-              </div>
-              <div className="com__content__right__card__content">
-                <ga.OutboundLink
-                  eventLabel="https://github.com/ShizukuIchi"
-                  to="https://github.com/ShizukuIchi"
-                  className="com__content__right__card__item--me"
-                  target="_blank"
-                >
-                  <img
-                    className="com__content__right__card__img"
-                    src={logo}
-                    alt="control"
-                  />
-                  <div className="com__content__right__card__text">Github</div>
-                </ga.OutboundLink>
-                <ga.OutboundLink
-                  eventLabel="https://sh1zuku.csie.io"
-                  to="https://sh1zuku.csie.io"
-                  className="com__content__right__card__item--me"
-                  target="_blank"
-                >
-                  <img
-                    className="com__content__right__card__img"
-                    src="https://a.ppy.sh/2926513_1448497605.png"
-                    alt="control"
-                  />
-                  <div className="com__content__right__card__text">
-                    My Website
-                  </div>
-                </ga.OutboundLink>
               </div>
             </div>
           </div>
