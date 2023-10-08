@@ -1,126 +1,114 @@
 // from Webamp demo
 
-const album = 'netBloc Vol. 24: tiuqottigeloot';
-
 export const initialTracks = [
   {
     url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/Diablo_Swing_Orchestra_-_01_-_Heroines.mp3',
-    duration: 322.612245,
+      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/周深%20-%20Rubia.flac',
+    duration: 194.558,
     metaData: {
-      title: 'Heroines',
-      artist: 'Diablo Swing Orchestra',
-      album,
+      title: 'Rubia',
+      artist: '周深',
+      album: 'Rubia',
     },
   },
   {
     url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/Eclectek_-_02_-_We_Are_Going_To_Eclecfunk_Your_Ass.mp3',
-    duration: 190.093061,
+      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/周深%20-%20望.flac',
+    duration: 250.547,
     metaData: {
-      title: 'We Are Going To Eclecfunk Your Ass',
-      artist: 'Eclectek',
-      album,
+      title: '望',
+      artist: '周深',
+      album: '望',
     },
   },
   {
     url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/Auto-Pilot_-_03_-_Seventeen.mp3',
-    duration: 214.622041,
+      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/王菲%20-%20如愿.flac',
+    duration: 265.383,
     metaData: {
-      title: 'Seventeen',
-      artist: 'Auto-Pilot',
-      album,
+      title: '如愿',
+      artist: '王菲',
+      album: '如愿',
     },
   },
   {
     url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/Muha_-_04_-_Microphone.mp3',
-    duration: 181.838367,
+      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/胡歌%20-%20忘记时间.flac',
+    duration: 272.106,
     metaData: {
-      title: 'Microphone',
-      artist: 'Muha',
-      album,
+      title: '忘记时间',
+      artist: '胡歌',
+      album: '仙剑奇侠传三 电视剧原声带',
     },
   },
   {
     url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/Just_Plain_Ant_-_05_-_Stumble.mp3',
-    duration: 86.047347,
+      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/五月天%2C孙燕姿%20-%20温柔%20%23MaydayBlue20th.flac',
+    duration: 271.018,
     metaData: {
-      title: 'Stumble',
-      artist: 'Just Plain Ant',
-      album,
+      title: '温柔 #MaydayBlue20th',
+      artist: '五月天, 孙燕姿',
+      album: '温柔 #MaydayBlue20th',
     },
   },
   {
     url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/Sleaze_-_06_-_God_Damn.mp3',
-    duration: 226.795102,
+      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/F.I.R.%E9%A3%9E%E5%84%BF%E4%B9%90%E5%9B%A2%20-%20%E6%88%91%E4%BB%AC%E7%9A%84%E7%88%B1.flac',
+    duration: 287.027,
     metaData: {
-      title: 'God Damn',
-      artist: 'Sleaze',
-      album,
+      title: '我们的爱',
+      artist: '飞儿乐团',
+      album: '飞儿乐团',
     },
   },
   {
     url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/Juanitos_-_07_-_Hola_Hola_Bossa_Nova.mp3',
-    duration: 207.072653,
+      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/G.E.M.邓紫棋%20-%20句号.flac',
+    duration: 235.632,
     metaData: {
-      title: 'Hola Hola Bossa Nova',
-      artist: 'Juanitos',
-      album,
+      title: '句号',
+      artist: '邓紫棋',
+      album: '摩天动物园',
     },
   },
   {
     url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/Entertainment_for_the_Braindead_-_08_-_Resolutions_Chris_Summer_Remix.mp3',
-    duration: 314.331429,
+      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/周杰伦%20-%20夜曲.flac',
+    duration: 226.827,
     metaData: {
-      title: 'Resolutions (Chris Summer Remix)',
-      artist: 'Entertainment for the Braindead',
-      album,
+      title: '夜曲',
+      artist: '周杰伦',
+      album: '十一月的萧邦',
     },
   },
   {
     url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/Nobara_Hayakawa_-_09_-_Trail.mp3',
-    duration: 204.042449,
+      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/陈慧娴%20-%20千千阙歌.flac',
+    duration: 299.400,
     metaData: {
-      title: 'Trail',
-      artist: 'Nobara Hayakawa',
-      album,
+      title: '千千阙歌',
+      artist: '陈慧娴',
+      album: '永远是你的朋友',
     },
   },
   {
     url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/Paper_Navy_-_10_-_Tongue_Tied.mp3',
-    duration: 201.116735,
+      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/U.S.A.%20For%20Africa%20-%20We%20Are%20The%20World.flac',
+    duration: 427.333,
     metaData: {
-      title: 'Tongue Tied',
-      artist: 'Paper Navy',
-      album,
+      title: 'We Are The World',
+      artist: 'U.S.A. For Africa',
+      album: 'We Are The World',
     },
   },
   {
     url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/60_Tigres_-_11_-_Garage.mp3',
-    duration: 245.394286,
+      'https://raw.githubusercontent.com/luxiangzh/winXP/32c9b34/src/assets/winamp/Odesza%20-%20A%20Moment%20Apart.flac',
+    duration: 234.244,
     metaData: {
-      title: 'Garage',
-      artist: '60 Tigres',
-      album,
-    },
-  },
-  {
-    url:
-      'https://raw.githubusercontent.com/captbaritone/webamp-music/4b556fbf/CM_aka_Creative_-_12_-_The_Cycle_Featuring_Mista_Mista.mp3',
-    duration: 221.44,
-    metaData: {
-      title: 'The Cycle (Featuring Mista Mista)',
-      artist: 'CM aka Creative',
-      album,
+      title: 'A Moment Apart',
+      artist: 'Odesza',
+      album: 'A Moment Apart (Deluxe Edition) [Explicit]',
     },
   },
 ];
