@@ -1,6 +1,6 @@
 {
-  "short_name": "WinXP",
-  "name": "Windows XP in React and Hooks",
+  "short_name": "WebXP",
+  "name": "Web-based Windows XP Desktop Recreation",
   "icons": [
     {
       "src": "favicon.ico",

@@ -1,4 +1,4 @@
-# WinXP
+# WebXP
 
 🏁 Web based Windows XP desktop recreation.
 
